@@ -1,10 +1,10 @@
 [
   {
-    "name": "Main EU",
+    "name": "Main RU",
     "url": "http://132.243.16.254:8080"
   },
   {
-    "name": "EU Reserve",
+    "name": "TEST",
     "url": "http://132.243.17.15:8080"
   }
 ]
